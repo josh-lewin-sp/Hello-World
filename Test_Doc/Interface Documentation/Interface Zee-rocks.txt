@@ -1,0 +1,4 @@
+In GitDesktop - do not create pull request or merge into Master. This will merge with the master branch. 
+
+1) Make sure you're on the Documentation branch
+2) Use Branch >> Merge into current branch --> Select the current branch again. Not the master. 
